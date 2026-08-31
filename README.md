@@ -69,7 +69,7 @@ The project was originally developed and executed in **Google Colab**. The Jupyt
 
 The complete analysis, experiments, code, visualizations, and results are available in the Jupyter notebook:
 
-**[`facial_emotion_detection.ipynb`](./facial_emotion_detection.ipynb)**
+**[`facial_emotion_detection.ipynb`](./notebooks/facial_emotion_detection.ipynb)**
 
 ---
 
